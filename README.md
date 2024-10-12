@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there!👋
 
-<!--
-**sali72/sali72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seyed Ali, a back-end web developer with a knack for crafting Python applications.
 
-Here are some ideas to get you started:
+My go-to tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FastAPI: Love building APIs with this lightning-fast framework.
+- MongoDB: A flexible database that always gets the job done.
+- Docker: Containerization made easy.
+
+I'm currently trying to master web developement.
+
+**Let's connect!**
+
+* [My LinkedIn profile](https://www.linkedin.com/in/seyed-ali-hashemi-67a568146)
+* sahashemi072@gmail.com
+
+**Feel free to explore my projects!**
