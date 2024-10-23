@@ -1,6 +1,6 @@
-### Hi there!👋
+# Hi there!👋
 
-I'm Seyed Ali, a back-end web developer with a knack for crafting Python applications.
+I'm Seyed Ali, a back-end web developer.
 
 My go-to tools:
 
