@@ -17,7 +17,7 @@ I'm currently trying to master web developement.
 
 **Feel free to explore my projects!** 🚀
 
-I'm currently working on <b> my Net Worth project </b> 💰 <br/>
+I'm currently working on <b> [my Net Worth project](https://github.com/sali72/my-net-worth) </b> 💰 <br/>
 A FastAPI and MongoDB-powered API app that helps you manage your finances.
 
 Check it out:
