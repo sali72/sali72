@@ -4,9 +4,11 @@ I'm Seyed Ali, a back-end web developer. ☕
 
 My go-to tools:
 
-- FastAPI: Love building APIs with this lightning-fast framework.
-- MongoDB: A flexible database that always gets the job done.
-- Docker: Containerization made easy.
+- FastAPI
+- MongoDB
+- PostgreSQL
+- Docker
+- Nginx
 
 I'm currently trying to master web developement.
 
