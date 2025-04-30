@@ -9,6 +9,7 @@ My go-to tools:
 - PostgreSQL
 - Docker
 - Nginx
+- Django
 
 I'm currently trying to master web developement.
 
@@ -18,11 +19,6 @@ I'm currently trying to master web developement.
 * sahashemi072@gmail.com
 
 **Feel free to explore my projects!** 🚀
-
-Check it out:
-* 📦 [GitHub Repository](https://github.com/sali72/my-net-worth)
-* 🌐 [Live Demo](https://my-net-worth.onrender.com/docs)
-
 
 
 ![](https://hit.yhype.me/github/profile?user_id=48308299)
